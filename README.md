@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muntazir-Mehdi
 - 📫 Roll no: 2022-SE-37
-- 🌱 I’m currently learning in 5th Semester
+- 🌱 I’m currently Studying in 5th Semester
 - 💞️ Course name: Machine learning
 
 <!---
